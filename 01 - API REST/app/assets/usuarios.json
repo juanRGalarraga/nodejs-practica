@@ -1,0 +1,28 @@
+{
+    "values": [
+        {
+            "id": 1, 
+            "name": "prueba1", 
+            "email": "prueba1@prueba1.com", 
+            "password": "prueba1",
+            "apiKey": "3c63de25-b601-46a1-9a7e-937a83d68c65"
+            
+        },
+        {
+            "id": 2, 
+            "name": "prueba2",
+            "email": "prueba2@prueba2.com",
+            "password": "prueba2",
+            "apiKey": "Prueba2"
+        },
+        {
+            "id": 3, 
+            "name": "prueba3", 
+            "email": "prueba3@prueba3.com", 
+            "password": "prueba3",
+            "apiKey": "3c63de25-b601-46a1-9a7e-937a83d68c65"
+        }
+    ]
+
+}
+
